@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gyasi, an <a href="https://www.linkedin.com/in/gyasi-folborg">IT Professional</a>☺</h1>
+<h1>Hi, I'm Gyasi, an <a href="https://www.linkedin.com/in/gyasi-folborg"> Backend Software Engineer</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
