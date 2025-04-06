@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gyasi, an <a href="https://www.linkedin.com/in/gyasi-folborg"> Aspiring DevOps Engineer</a>☺</h1>
+<h1>Hi, I'm Gyasi, a <a href="https://www.linkedin.com/in/gyasi-folborg"> a DevOps enthusiast currently building my skills in Linux, Git, Python, and cloud automation. I’m on a path to become a DevOps engineer and I use this space to showcase my projects and progress.</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
