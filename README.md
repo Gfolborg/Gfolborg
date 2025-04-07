@@ -9,6 +9,7 @@
 - <b>Python Projects</b>
   - [Asteroids Game](https://github.com/Gfolborg/Asteroids-Game)
   - [Bookbot](https://github.com/Gfolborg/bookbot)
+  - [Basic-Calculator](https://github.com/Gfolborg/Basic-Calculator)
 
 <h2>🤳Connect with me:</h2>
 
