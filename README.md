@@ -6,7 +6,6 @@
   - [Creating VM's on Azure](https://github.com/Gfolborg/Creating-Azure-Virtual-Machines)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gfolborg/configure-ad)
     
----
   
 - <b>Python Projects</b>
   - [Asteroids Game](https://github.com/Gfolborg/Asteroids-Game)
