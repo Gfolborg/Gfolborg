@@ -33,6 +33,9 @@ This GitHub is where I showcase real world QA projects, automation frameworks, a
 I'm building hands-on experience in test automation using Java, Selenium WebDriver, TestNG, and Cucumber with a strong foundation in Manual QA, SDLC/STLC, and testing best practices.
 </p>
 
+- <b>Automation QA/SDET Projects</b>
+  - [Automating Testing TutorialsNinja demo e-commerce using Selenium/Java](https://github.com/Gfolborg/testng-selenium-framework)
+
 - <b>Microsoft Azure</b>
   - [Creating VM's on Azure](https://github.com/Gfolborg/Creating-Azure-Virtual-Machines)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gfolborg/configure-ad)
@@ -43,7 +46,4 @@ I'm building hands-on experience in test automation using Java, Selenium WebDriv
   - [Bookbot](https://github.com/Gfolborg/bookbot)
   - [Basic-Calculator](https://github.com/Gfolborg/Basic-Calculator)
  
-- <b>Automation QA/SDET Projects</b>
- 
----
 
