@@ -36,11 +36,10 @@ I'm building hands-on experience in test automation using Java, Selenium WebDriv
 - <b>Automation QA/SDET Projects</b>
   - [Automating Testing TutorialsNinja demo e-commerce using Selenium/Java](https://github.com/Gfolborg/testng-selenium-framework)
 
-- <b>Microsoft Azure</b>
+<!-- - <b>Microsoft Azure</b>
   - [Creating VM's on Azure](https://github.com/Gfolborg/Creating-Azure-Virtual-Machines)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gfolborg/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gfolborg/configure-ad) -->
     
-  
 - <b>Python Projects</b>
   - [Asteroids Game](https://github.com/Gfolborg/Asteroids-Game)
   - [Bookbot](https://github.com/Gfolborg/bookbot)
