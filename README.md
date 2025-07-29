@@ -34,7 +34,7 @@ I'm building hands-on experience in test automation using Java, Selenium WebDriv
 </p>
 
 - <b>Automation QA/SDET Projects</b>
-  - [Automating Testing TutorialsNinja demo e-commerce using Selenium/Java](https://github.com/Gfolborg/testng-selenium-framework)
+  - [Automating Testing TutorialsNinja demo e-commerce using Selenium/Java/TestNG(TDD Framework)](https://github.com/Gfolborg/testng-selenium-framework)
   - [Automating Testing ParaBank demo website using Selenium/Java/Cucumber(BDD Framework)](https://github.com/Gfolborg/ParaBankTesting-Cucumber)
 
 <!-- - <b>Microsoft Azure</b>
