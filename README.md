@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gyasi, an aspiring Automation QA Engineer / SDET</h1>
+<h1>Hi, I'm Gyasi, an Automation QA Engineer / SDET</h1>
 
 <p>
 I'm building hands-on experience in test automation using Java, Selenium WebDriver, TestNG, and Cucumber with a strong foundation in Manual QA, SDLC/STLC, and testing best practices.
