@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gyasi — AI Automation Specialist in Progress 🚀</h1>
+<h1>Hi, I'm Gyasi. AI Automation Specialist in Progress 🚀</h1>
 
 <p>
 I’ve always been fascinated by technology, from taking apart electronics as a teen to building working computers out of spare parts. Today, I’m channeling that same curiosity into the world of <strong>AI Automation</strong> and <strong>workflow orchestration</strong>.  
