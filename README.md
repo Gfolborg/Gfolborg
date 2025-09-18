@@ -1,48 +1,37 @@
-<h1>Hi, I'm Gyasi, an Automation QA Engineer / SDET</h1>
+<h1>Hi, I'm Gyasi — AI Automation Specialist in Progress 🚀</h1>
 
 <p>
-I'm building hands-on experience in test automation using Java, Selenium WebDriver, TestNG, and Cucumber with a strong foundation in Manual QA, SDLC/STLC, and testing best practices.
+I’ve always been fascinated by technology — from taking apart electronics as a teen to building working computers out of spare parts. Today, I’m channeling that same curiosity into the world of <strong>AI Automation</strong> and <strong>workflow orchestration</strong>.  
 </p>
 
 <p>
-<strong>Tools & Tech:</strong> Java, Selenium WebDriver, TestNG, Cucumber (BDD), Maven, Git, GitHub, IntelliJ IDEA, Postman, JUnit, XPath/CSS Selectors, Manual QA, Agile, Linux basics, REST API Testing
+Currently, I’m building hands-on experience with <strong>automation platforms</strong> like Zapier, n8n, and Make.com, while also strengthening my foundations in <strong>Python</strong> and <strong>Java</strong>. Through the <strong>TripleTen AI Automation program</strong>, I’ve gained real-world experience in <strong>prompt engineering, chatbot development, API integrations, and workflow automation</strong>.  
 </p>
 
 <p>
-This GitHub is where I showcase real world QA projects, automation frameworks, and continuously sharpen my skills through hands on practice.
+<strong>Tools & Tech:</strong> Python, Java (foundations), Zapier, n8n, Make.com, API Integrations, Prompt Engineering, Workflow Design, Automation Pipelines, Git/GitHub, Postman, REST API Testing, Agile
 </p>
-
-<h2>🤳Connect with me:</h2>
-
 
 <p>
-  Connect with me on <a href="https://www.linkedin.com/in/gyasi-folborg">LinkedIn</a>
+This GitHub is where I showcase <strong>AI automation projects, coding practice, and creative experiments</strong> as I continue sharpening my skills through hands-on learning and exploration.
 </p>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://linkedin.com/in/gyasi-folborg
+<h2>🤳 Connect with me:</h2>
 <p>
-  Open to QA/SDET roles (Manual + Automation)
+  Connect with me on <a href="https://www.linkedin.com/in/gyasi-folborg">LinkedIn</a>  
+  📧 Email: [Insert your professional email here]  
 </p>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
-<p>
-I'm building hands-on experience in test automation using Java, Selenium WebDriver, TestNG, and Cucumber with a strong foundation in Manual QA, SDLC/STLC, and testing best practices.
-</p>
+---
 
-- <b>Automation QA/SDET Projects</b>
-  - [Automating Testing TutorialsNinja demo e-commerce using Selenium/Java/TestNG(TDD Framework)](https://github.com/Gfolborg/testng-selenium-framework)
+<h2>👨‍💻 Featured Projects:</h2>
 
-<!-- - <b>Microsoft Azure</b>
-  - [Creating VM's on Azure](https://github.com/Gfolborg/Creating-Azure-Virtual-Machines)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gfolborg/configure-ad) -->
-    
-- <b>Python Projects</b>
-  - [Asteroids Game](https://github.com/Gfolborg/Asteroids-Game)
-  - [Bookbot](https://github.com/Gfolborg/bookbot)
-  - [Basic-Calculator](https://github.com/Gfolborg/Basic-Calculator)
- 
+- <b>Projects in Python</b>  
+  - [Asteroids Game](https://github.com/Gfolborg/Asteroids-Game)  
+  - [Bookbot](https://github.com/Gfolborg/bookbot)  
+  - [Basic-Calculator](https://github.com/Gfolborg/Basic-Calculator)  
 
+- <b>Automation Projects</b>  
+  - [Automating Testing TutorialsNinja demo e-commerce using Selenium/Java/TestNG (TDD Framework)](https://github.com/Gfolborg/testng-selenium-framework)  
+
+---
