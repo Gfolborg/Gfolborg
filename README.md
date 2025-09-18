@@ -9,7 +9,7 @@ Currently, I’m building hands-on experience with <strong>automation platforms<
 </p>
 
 <p>
-<strong>Tools & Tech:</strong> Python, Java (foundations), Zapier, n8n, Make.com, API Integrations, Prompt Engineering, Workflow Design, Automation Pipelines, Git/GitHub, Postman, REST API Testing, Agile
+<strong>Tools & Tech:</strong> Python, Java (foundations), Zapier, n8n, Make.com, API Integrations, Prompt Engineering, Workflow Design, Automation Pipelines, Git/GitHub, Agile
 </p>
 
 <p>
