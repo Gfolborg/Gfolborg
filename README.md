@@ -19,7 +19,7 @@ This GitHub is where I showcase <strong>AI automation projects, coding practice,
 <h2>🤳 Connect with me:</h2>
 <p>
   Connect with me on <a href="https://www.linkedin.com/in/gyasi-folborg">LinkedIn</a>  
-  📧 Email:  <a href="gyasi.folborg@outlook.com">gyasi.folborg@outlook.com</a>     
+  📧 Email: <a href="mailto:gyasi.folborg@outlook.com">gyasi.folborg@outlook.com</a>  
 </p>
 
 ---
