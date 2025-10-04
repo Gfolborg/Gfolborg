@@ -25,14 +25,14 @@ This GitHub is where I showcase <strong>AI automation projects, coding practice,
 ---
 
 <h2>👨‍💻 Featured Projects:</h2>
+- <b>Automation Projects</b>
+  - [AI-Powered Customer Support Triage Agent](https://github.com/Gfolborg/AI-Powered-Customer-Support-Triage.git)  
+  - [Automating Testing TutorialsNinja demo e-commerce using Selenium/Java/TestNG (TDD Framework)](https://github.com/Gfolborg/testng-selenium-framework)  
 
 - <b>Projects in Python</b>  
   - [Asteroids Game](https://github.com/Gfolborg/Asteroids-Game)  
   - [Bookbot](https://github.com/Gfolborg/bookbot)  
   - [Basic-Calculator](https://github.com/Gfolborg/Basic-Calculator)  
 
-- <b>Automation Projects</b>
-  - [AI-Powered Customer Support Triage Agent](https://github.com/Gfolborg/AI-Powered-Customer-Support-Triage.git)  
-  - [Automating Testing TutorialsNinja demo e-commerce using Selenium/Java/TestNG (TDD Framework)](https://github.com/Gfolborg/testng-selenium-framework)  
 
 ---
