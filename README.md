@@ -78,4 +78,3 @@ Ready to design, build, and improve systems that solve real problems efficiently
         <i>Implemented a multi-function application to confirm mastery of fundamental programming logic, user input validation, and robust exception handling (`try`/`except`).</i>
     </li>
 </ul>
----
