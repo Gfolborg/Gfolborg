@@ -2,20 +2,20 @@
 <h2 align="center">AI Automation Specialist | AI Integration Specialist</h2>
 
 <p align="center">
-  <a href="www.linkedin.com//in//gyasi-folborg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="gyasi.folborg@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Email Badge"/></a>
+  <a href="https://www.linkedin.com/in/gyasi-folborg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</p>
+
+<p align="center">
+  📧 <b> Email: gyasi.folborg@outlook.com</b>
 </p>
 
 <p>
 I specialize in Intelligent Automation (IA) and Workflow Orchestration, transforming complex business challenges into reliable, automated systems. My background in law enforcement provides a unique, highly disciplined approach to process governance, data integrity, and high-stakes problem-solving—skills I now apply to designing robust AI solutions.
 </p>
 
-<p>
-I focus on deploying end-to-end workflows that streamline operations, reduce human error, and deliver measurable ROI. This repository showcases my skills in production-ready projects.
+---
 
-</p>
-
-<h3>🛠️ Core Automation & Technical Skills</h3>
+<h2>🛠️ Core Automation & Technical Skills</h2>
 <p>
 I am proficient in the full IA toolchain, from design to deployment:
 </p>
@@ -33,7 +33,7 @@ I am proficient in the full IA toolchain, from design to deployment:
 Ready to design, build, and improve systems that solve real problems efficiently. Explore my repositories below to see these systems in action.
 </p>
 
-<hr>
+---
 <h2>👨‍💻 Featured Projects:</h2>
 
 <b>⚙️ Automation Projects</b>
