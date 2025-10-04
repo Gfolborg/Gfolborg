@@ -39,12 +39,12 @@ Ready to design, build, and improve systems that solve real problems efficiently
 <b>⚙️ Automation Projects</b>
 <ul>
     <li>
-        <b><a href="https://github.com/Gfolborg/AI-Powered-Customer-Support-Triage.git">AI-Powered Customer Support Triage</a></b>
+        <b><a href="https://github.com/Gfolborg/AI-Powered-Customer-Support-Triage">AI-Powered Customer Support Triage</a></b>
         <br />
         <i>(Intelligent Triage, Real-Time Routing, Data Integrity)</i>
     </li>
     <li>
-        <b><a href="[INSERT REPO LINK HERE]">AI-Powered Content Generation Engine</a></b>
+        <b><a href="https://github.com/Gfolborg/AI-Powered-Content-Generator">AI-Powered Content Generation Engine</a></b>
         <br />
         <i>(AI Orchestration, Human-in-the-Loop, Brand Safety)</i>
     </li>
