@@ -1,38 +1,57 @@
-<h1>Hi, I'm Gyasi. AI Automation Specialist in Progress 🚀</h1>
+<h1 align="center">Hi, I'm Gyasi Folborg.</h1>
+<h2 align="center">AI Automation Specialist | AI Integration Specialist</h2>
 
-<p>
-I’ve always been fascinated by technology, from taking apart electronics as a teen to building working computers out of spare parts. Today, I’m channeling that same curiosity into the world of <strong>AI Automation</strong> and <strong>workflow orchestration</strong>.  
+<p align="center">
+  <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="[Your Email Address]"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Email Badge"/></a>
 </p>
 
 <p>
-Currently, I’m building hands on experience with <strong>automation platforms</strong> like Zapier, n8n, and Make.com, while also strengthening my foundations in <strong>Python</strong> and <strong>Java</strong>. Through the <strong>TripleTen AI Automation program</strong>, I’ve gained real world experience in <strong>prompt engineering, chatbot development, API integrations, and workflow automation</strong>.  
+I specialize in Intelligent Automation (IA) and Workflow Orchestration, transforming complex business challenges into reliable, automated systems. My background in law enforcement provides a unique, highly disciplined approach to process governance, data integrity, and high-stakes problem-solving—skills I now apply to designing robust AI solutions.
 </p>
 
 <p>
-<strong>Tools & Tech:</strong> Python, Java (foundations), Zapier, n8n, Make.com, API Integrations, Prompt Engineering, Workflow Design, Automation Pipelines, Git/GitHub, Agile
+I focus on deploying end-to-end workflows that streamline operations, reduce human error, and deliver measurable ROI. This repository showcases my skills in production-ready projects.
+
+</p>
+
+<h3>🛠️ Core Automation & Technical Skills</h3>
+<p>
+I am proficient in the full IA toolchain, from design to deployment:
+</p>
+<p>
+<strong>Platforms:</strong> Make.com | n8n | Zapier | UiPath (RPA) | Nebius Studio
+</p>
+<p>
+<strong>AI & APIs:</strong> LLMs | Prompt Engineering | Generative AI | JSON | REST API | Webhooks
+</p>
+<p>
+<strong>Process:</strong> Workflow Automation | Business Process Mapping | Miro (Design) | Agile | Git/GitHub
 </p>
 
 <p>
-This GitHub is where I showcase <strong>AI automation projects, coding practice, and creative experiments</strong> as I continue sharpening my skills through hands on learning and exploration.
+Ready to design, build, and improve systems that solve real problems efficiently. Explore my repositories below to see these systems in action.
 </p>
 
-<h2>🤳 Connect with me:</h2>
-<p>
-  Connect with me on <a href="https://www.linkedin.com/in/gyasi-folborg">LinkedIn</a>  
-  📧 Email: <a href="mailto:gyasi.folborg@outlook.com">gyasi.folborg@outlook.com</a>  
-</p>
+<hr>
 
 ---
-
-<h2>👨‍💻 Featured Projects:</h2>
-- <b>Automation Projects</b>
-  - [AI-Powered Customer Support Triage Agent](https://github.com/Gfolborg/AI-Powered-Customer-Support-Triage.git)  
-  - [Automating Testing TutorialsNinja demo e-commerce using Selenium/Java/TestNG (TDD Framework)](https://github.com/Gfolborg/testng-selenium-framework)  
-
-- <b>Projects in Python</b>  
-  - [Asteroids Game](https://github.com/Gfolborg/Asteroids-Game)  
-  - [Bookbot](https://github.com/Gfolborg/bookbot)  
-  - [Basic-Calculator](https://github.com/Gfolborg/Basic-Calculator)  
-
-
+<b>🐍 Projects in Python</b>
+<ul>
+    <li>
+        <b><a href="https://github.com/Gfolborg/Asteroids-Game">Asteroids Game</a></b>
+        <br />
+        <i>Developed using Python to demonstrate Object-Oriented Programming (OOP), real-time object manipulation, and computational geometry for collision detection.</i>
+    </li>
+    <li>
+        <b><a href="https://github.com/Gfolborg/bookbot">Bookbot</a></b>
+        <br />
+        <i>Engineered a text analysis bot to perform character/word frequency counts, showcasing proficiency in File I/O and data structuring for text analysis.</i>
+    </li>
+    <li>
+        <b><a href="https://github.com/Gfolborg/Basic-Calculator">Basic-Calculator</a></b>
+        <br />
+        <i>Implemented a multi-function application to confirm mastery of fundamental programming logic, user input validation, and robust exception handling (`try`/`except`).</i>
+    </li>
+</ul>
 ---
