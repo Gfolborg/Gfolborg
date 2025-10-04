@@ -49,7 +49,7 @@ Ready to design, build, and improve systems that solve real problems efficiently
         <i>(AI Orchestration, Human-in-the-Loop, Brand Safety)</i>
     </li>
     <li>
-        <b><a href="[INSERT REPO LINK HERE]">AI-Powered Customer Feedback Reporting</a></b>
+        <b><a href="[INSERT REPO LINK HERE]">AI-Powered Customer Feedback Analysis & Reporting</a></b>
         <br />
         <i>(Scheduled BI Reporting, Looker Studio Integration, Actionable Suggestions)</i>
     </li>
