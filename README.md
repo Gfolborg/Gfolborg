@@ -2,8 +2,8 @@
 <h2 align="center">AI Automation Specialist | AI Integration Specialist</h2>
 
 <p align="center">
-  <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="[Your Email Address]"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Email Badge"/></a>
+  <a href="www.linkedin.com/in/gyasi-folborg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="gyasi.folborg@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Email Badge"/></a>
 </p>
 
 <p>
@@ -34,6 +34,29 @@ Ready to design, build, and improve systems that solve real problems efficiently
 </p>
 
 <hr>
+<h2>👨‍💻 Featured Projects:</h2>
+
+<b>⚙️ Automation Projects</b>
+<ul>
+    <li>
+        <b><a href="https://github.com/Gfolborg/AI-Powered-Customer-Support-Triage.git">AI-Powered Customer Support Triage</a></b>
+        <br />
+        <i>(Intelligent Triage, Real-Time Routing, Data Integrity)</i>
+    </li>
+    <li>
+        <b><a href="[INSERT REPO LINK HERE]">AI-Powered Content Generation Engine</a></b>
+        <br />
+        <i>(AI Orchestration, Human-in-the-Loop, Brand Safety)</i>
+    </li>
+    <li>
+        <b><a href="[INSERT REPO LINK HERE]">AI-Powered Customer Feedback Reporting</a></b>
+        <br />
+        <i>(Scheduled BI Reporting, Looker Studio Integration, Actionable Suggestions)</i>
+    </li>
+    <li>
+        <b><a href="https://github.com/Gfolborg/testng-selenium-framework">E-commerce Test Automation (Selenium/Java/TestNG Framework)</a></b>
+    </li>
+</ul>
 
 ---
 <b>🐍 Projects in Python</b>
