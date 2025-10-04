@@ -2,7 +2,7 @@
 <h2 align="center">AI Automation Specialist | AI Integration Specialist</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/gyasi-folborg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="www.linkedin.com//in//gyasi-folborg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="gyasi.folborg@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Email Badge"/></a>
 </p>
 
