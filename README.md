@@ -54,9 +54,10 @@ Ready to design, build, and improve systems that solve real problems efficiently
         <i>(Scheduled BI Reporting, Looker Studio Integration, Actionable Suggestions)</i>
     </li>
     <li>
-        <b><a href="https://github.com/Gfolborg/testng-selenium-framework">E-commerce Test Automation (Selenium/Java/TestNG Framework)</a></b>
-    </li>
-</ul>
+    <b><a href="https://github.com/Gfolborg/testng-selenium-framework">E-commerce Test Automation (Selenium/Java/TestNG Framework)</a></b>
+    <br />
+    <i>Architected and implemented a modular Test-Driven Development (TDD) framework using Selenium, Java, and TestNG to perform reliable e-commerce functional and regression testing.</i>
+</li>
 
 ---
 <b>🐍 Projects in Python</b>
