@@ -38,6 +38,11 @@ Ready to design, build, and improve systems that solve real problems efficiently
 
 <b>⚙️ Automation Projects</b>
 <ul>
+  <li>
+        <b><a href="https://github.com/Gfolborg/Lovable.dev-AI-Landing-Pages">Lovable.dev AI Landing Pages</a></b>
+        <br />
+        <i>(Curated a series of responsive landing pages demonstrating clean UI design, cohesive visual language, and user-centered layout principles using Lovable.dev).</i>
+    </li>
     <li>
         <b><a href="https://github.com/Gfolborg/AI-Powered-Customer-Support-Triage">AI-Powered Customer Support Triage</a></b>
         <br />
