@@ -17,7 +17,7 @@ I specialize in Intelligent Automation (IA) and Workflow Orchestration, transfor
 
 <h2>🛠️ Core Automation & Technical Skills</h2>
 <p>
-I am proficient in the full IA toolchain, from design to deployment:
+I am proficient in the full AI toolchain, from design to deployment:
 </p>
 <p>
 <strong>Platforms:</strong> Make.com | n8n | Zapier | UiPath (RPA) | Nebius Studio
