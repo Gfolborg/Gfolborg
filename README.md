@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gyasi Folborg.</h1>
-<h2 align="center">AI Automation Specialist | AI Integration Specialist</h2>
+<h2 align="center">Operations & AI Automation Specialist</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gyasi-folborg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
