@@ -10,7 +10,7 @@
 </p>
 
 <p>
-Specializes in AI Automation and Workflow Orchestration, converting complex business challenges into dependable, automated systems. My background in community-oriented law enforcement provides a unique, highly disciplined approach to process governance, data integrity, and high-stakes problem-solving—skills I now apply to building robust AI powered solutions.
+Specializes in AI Automation and Workflow Orchestration, converting complex business challenges into dependable, automated systems. My background in community-oriented law enforcement provides a unique, highly disciplined approach to process governance, data integrity, and high-stakes problem-solving, skills I now apply to building robust AI powered solutions.
 </p>
 
 ---
