@@ -20,13 +20,16 @@ Specializes in AI Automation and Workflow Orchestration, converting complex busi
 I am proficient in the full AI toolchain, from design to deployment:
 </p>
 <p>
-<strong>Platforms:</strong> Make.com | n8n | Zapier | UiPath (RPA) | Nebius Studio
+<strong>Platforms:</strong> Make.com | n8n | Zapier | Nebius Studio
 </p>
 <p>
-<strong>AI & APIs:</strong> LLMs | Prompt Engineering | Generative AI | JSON | REST API | Webhooks
+<strong>AI & Integrations:</strong> LLMs | Prompt Engineering | Generative AI | JSON | REST APIs | Webhooks
 </p>
 <p>
-<strong>Process:</strong> Workflow Automation | Business Process Mapping | Miro (Design) | Agile | Git/GitHub
+<strong>Process & Frameworks:</strong> Workflow Automation | Business Process Mapping | Miro (UX/Flow Design) | Agile Methodologies | Git/GitHub
+</p>
+<p>
+<strong>Operational Focus:</strong> Design, build, and refine systems that solve problems at scale.
 </p>
 
 <p>
