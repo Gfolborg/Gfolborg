@@ -2,87 +2,97 @@
 <h2 align="center">AI Automation Specialist</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gyasi-folborg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/gyasi-folborg">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
 
 <p align="center">
-  📧 <b> Email: gyasi.folborg@outlook.com</b>
+  📧 <b>Email: gyasi.folborg@outlook.com</b>
 </p>
 
 <p>
-Specializes in AI Automation and Workflow Orchestration, converting complex business challenges into dependable, automated systems. My background in community-oriented law enforcement provides a unique, highly disciplined approach to process governance, data integrity, and high-stakes problem-solving, skills I now apply to building robust AI powered solutions.
-</p>
-
----
-
-<h2>🛠️ Core Automation & Technical Skills</h2>
-<p>
-I am proficient in the full AI toolchain, from design to deployment:
-</p>
-<p>
-<strong>Platforms:</strong> Make.com | n8n | Zapier | Nebius Studio
-</p>
-<p>
-<strong>AI & Integrations:</strong> LLMs | Prompt Engineering | Generative AI | JSON | REST APIs | Webhooks
-</p>
-<p>
-<strong>Process & Frameworks:</strong> Workflow Automation | Business Process Mapping | Miro (UX/Flow Design) | Agile Methodologies | Git/GitHub
-</p>
-<p>
-<strong>Operational Focus:</strong> Design, build, and refine systems that solve problems at scale.
+I build AI-assisted workflows and automation systems that make messy, repetitive work faster, clearer, and more reliable. My focus is on turning real-world problems into practical systems using automation, APIs, LLMs, and workflow orchestration tools.
 </p>
 
 <p>
-Ready to design, build, and improve systems that solve real problems efficiently. Explore my repositories below to see these systems in action.
+My background in law enforcement shaped how I think about process discipline, documentation, and making sound decisions in high-stakes environments. I bring that same mindset into the systems I build today: practical, structured, and designed to actually hold up in real use.
 </p>
 
----
-<h2>👨‍💻 Featured Projects:</h2>
+<hr />
+
+<h2>🛠️ Core Skills</h2>
+
+<p>
+<strong>Automation Platforms:</strong> n8n, Make.com, Zapier, Nebius Studio
+</p>
+
+<p>
+<strong>AI & Integrations:</strong> LLMs, Prompt Engineering, Generative AI, REST APIs, Webhooks, JSON
+</p>
+
+<p>
+<strong>Process & Workflow:</strong> Workflow Automation, Business Process Mapping, Miro, UX/Flow Design, Agile Methodologies, Git/GitHub
+</p>
+
+<p>
+<strong>Focus:</strong> Building useful systems that improve speed, consistency, and decision-making
+</p>
+
+<p>
+Most of my work centers around AI workflows, routing logic, reporting pipelines, and process automation. I'm especially interested in systems that need to balance usability, structure, and reliability.
+</p>
+
+<hr />
+
+<h2>👨‍💻 Featured Projects</h2>
 
 <b>⚙️ Automation Projects</b>
 <ul>
   <li>
-        <b><a href="https://github.com/Gfolborg/Lovable.dev-AI-Landing-Pages">Lovable.dev AI Landing Pages</a></b>
-        <br />
-        <i>(Curated a series of responsive landing pages demonstrating clean UI design, cohesive visual language, and user-centered layout principles using Lovable.dev).</i>
-    </li>
-    <li>
-        <b><a href="https://github.com/Gfolborg/AI-Powered-Customer-Support-Triage">AI-Powered Customer Support Triage</a></b>
-        <br />
-        <i>(Intelligent Triage, Real-Time Routing, Data Integrity)</i>
-    </li>
-    <li>
-        <b><a href="https://github.com/Gfolborg/AI-Powered-Content-Generator">AI-Powered Content Generation Engine</a></b>
-        <br />
-        <i>(AI Orchestration, Human-in-the-Loop, Brand Safety)</i>
-    </li>
-    <li>
-        <b><a href="https://github.com/Gfolborg/AI-Powered-Customer-Feedback-Analysis-Reporting">AI-Powered Customer Feedback Analysis & Reporting</a></b>
-        <br />
-        <i>(Scheduled BI Reporting, Looker Studio Integration, Actionable Suggestions)</i>
-    </li>
-    <li>
-    <b><a href="https://github.com/Gfolborg/testng-selenium-framework">E-commerce Test Automation (Selenium/Java/TestNG Framework)</a></b>
+    <b><a href="https://github.com/Gfolborg/Lovable.dev-AI-Landing-Pages">Lovable.dev AI Landing Pages</a></b>
     <br />
-    <i>Architected and implemented a modular Test-Driven Development (TDD) framework using Selenium, Java, and TestNG to perform reliable e-commerce functional and regression testing.</i>
-</li>
+    <i>Responsive landing pages focused on clean UI, strong visual structure, and practical user-centered design.</i>
+  </li>
+  <li>
+    <b><a href="https://github.com/Gfolborg/AI-Powered-Customer-Support-Triage">AI-Powered Customer Support Triage</a></b>
+    <br />
+    <i>AI-assisted triage workflow for classifying support issues, routing them in real time, and improving consistency in handling inbound requests.</i>
+  </li>
+  <li>
+    <b><a href="https://github.com/Gfolborg/AI-Powered-Content-Generator">AI-Powered Content Generation Engine</a></b>
+    <br />
+    <i>Multi-step content workflow with AI orchestration, human review, and brand-safety controls.</i>
+  </li>
+  <li>
+    <b><a href="https://github.com/Gfolborg/AI-Powered-Customer-Feedback-Analysis-Reporting">AI-Powered Customer Feedback Analysis & Reporting</a></b>
+    <br />
+    <i>Automated reporting workflow that turns customer feedback into useful insights through analysis, dashboards, and scheduled delivery.</i>
+  </li>
+  <li>
+    <b><a href="https://github.com/Gfolborg/testng-selenium-framework">E-commerce Test Automation (Selenium / Java / TestNG)</a></b>
+    <br />
+    <i>Modular automation framework for reliable functional and regression testing in an e-commerce environment.</i>
+  </li>
+</ul>
 
----
-<b>🐍 Projects in Python</b>
+<hr />
+
+<b>🐍 Python Projects</b>
 <ul>
-    <li>
-        <b><a href="https://github.com/Gfolborg/Asteroids-Game">Asteroids Game</a></b>
-        <br />
-        <i>Developed using Python to demonstrate Object-Oriented Programming (OOP), real-time object manipulation, and computational geometry for collision detection.</i>
-    </li>
-    <li>
-        <b><a href="https://github.com/Gfolborg/bookbot">Bookbot</a></b>
-        <br />
-        <i>Engineered a text analysis bot to perform character/word frequency counts, showcasing proficiency in File I/O and data structuring for text analysis.</i>
-    </li>
-    <li>
-        <b><a href="https://github.com/Gfolborg/Basic-Calculator">Basic-Calculator</a></b>
-        <br />
-        <i>Implemented a multi-function application to confirm mastery of fundamental programming logic, user input validation, and robust exception handling (`try`/`except`).</i>
-    </li>
+  <li>
+    <b><a href="https://github.com/Gfolborg/Asteroids-Game">Asteroids Game</a></b>
+    <br />
+    <i>Built in Python to demonstrate object-oriented programming, real-time game logic, and collision detection.</i>
+  </li>
+  <li>
+    <b><a href="https://github.com/Gfolborg/bookbot">Bookbot</a></b>
+    <br />
+    <i>Text analysis project focused on file handling, word counts, character frequency, and structured output.</i>
+  </li>
+  <li>
+    <b><a href="https://github.com/Gfolborg/Basic-Calculator">Basic Calculator</a></b>
+    <br />
+    <i>Simple Python project demonstrating core programming logic, input handling, and exception management.</i>
+  </li>
 </ul>
