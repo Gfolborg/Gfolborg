@@ -19,6 +19,19 @@ I build AI-assisted workflows and automation systems that make messy, repetitive
 My background in law enforcement shaped how I think about process discipline, documentation, and making sound decisions in high-stakes environments. I bring that same mindset into the systems I build today: practical, structured, and designed to actually hold up in real use.
 </p>
 
+<p>
+I’m especially interested in AI systems that require strong workflow design, clear guardrails, and practical operational thinking.
+</p>
+
+<hr />
+
+<h2>🔍 What I Like Building</h2>
+<ul>
+  <li>AI-assisted workflow systems</li>
+  <li>Automation for repetitive business processes</li>
+  <li>Tools that make real work faster and more structured</li>
+</ul>
+
 <hr />
 
 <h2>🛠️ Core Skills</h2>
@@ -41,6 +54,10 @@ My background in law enforcement shaped how I think about process discipline, do
 
 <p>
 Most of my work centers around AI workflows, routing logic, reporting pipelines, and process automation. I'm especially interested in systems that need to balance usability, structure, and reliability.
+</p>
+
+<p>
+My workflow is AI-assisted by default. I regularly use Claude Code, Codex CLI, and Gemini CLI to move faster when building, refining, troubleshooting projects and implementation where they make sense.
 </p>
 
 <hr />
@@ -78,7 +95,7 @@ Most of my work centers around AI workflows, routing logic, reporting pipelines,
 
 <hr />
 
-<b>🐍 Python Projects</b>
+<h2>🐍 Python Projects</h2>
 <ul>
   <li>
     <b><a href="https://github.com/Gfolborg/Asteroids-Game">Asteroids Game</a></b>
